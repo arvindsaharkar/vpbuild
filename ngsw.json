@@ -1,0 +1,108 @@
+{
+  "configVersion": 1,
+  "timestamp": 1558698867272,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/es2015-polyfills.1e04665e16f944715fd2.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.cbf8686b65b0016fe361.js",
+        "/polyfills.8bbb231b43165d65d357.js",
+        "/runtime.26209474bfa8dc87a77c.js",
+        "/styles.e58c58c1e5badffe4590.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/barcode.png",
+        "/assets/images/barcode1.png",
+        "/assets/images/bullets.png",
+        "/assets/images/cust-gain.png",
+        "/assets/images/customer-jobs.png",
+        "/assets/images/face.png",
+        "/assets/images/giftbox.png",
+        "/assets/images/masteklogo.png",
+        "/assets/images/pain-reliever.png",
+        "/assets/images/sad.png",
+        "/assets/images/smile.png",
+        "/assets/images/up-chart.png",
+        "/fontawesome-webfont.674f50d287a8c48dc19b.eot",
+        "/fontawesome-webfont.912ec66d7572ff821749.svg",
+        "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
+        "/fontawesome-webfont.b06871f281fee6b241d6.ttf",
+        "/fontawesome-webfont.fee66e712a8a08eef580.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/barcode.png": "eed243ebf55d23fef91bf16c0ee0f0d62640f16c",
+    "/assets/images/barcode1.png": "c5f7e1eaf6a440e68b6346532abc7fd13b5e40a9",
+    "/assets/images/bullets.png": "1847eec250bfc335603df6ad72805bd5c0b90b7d",
+    "/assets/images/cust-gain.png": "047059cc48f12decee36d743c5171a49c6e572a0",
+    "/assets/images/customer-jobs.png": "1bb09932b650756253895ee1bb9418101f638167",
+    "/assets/images/face.png": "393b82240d9667d432c7d2e54f8bed3ec5b6e848",
+    "/assets/images/giftbox.png": "6d98153112cdaa54354e0a561b909573ad8598d2",
+    "/assets/images/masteklogo.png": "0812bde883a40517a6e65ac1f9ef89844b6421ef",
+    "/assets/images/pain-reliever.png": "391a4d065fa5a81c88bed5dd2f49c74301e71dc1",
+    "/assets/images/sad.png": "aa6a14f2d19e61aa5c0bb26281de89f57bed32cc",
+    "/assets/images/smile.png": "7037fd059edd0f43d5f8d332cc692b964b6d775a",
+    "/assets/images/up-chart.png": "a80cbf894f81f009650a96108b9ef966dae6101d",
+    "/es2015-polyfills.1e04665e16f944715fd2.js": "b7a81c61d32b0b12737f0c13f45973ba391cd7f9",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/index.html": "2da260c00b3ba1e92a1cb0e56d4e43ec31d350cb",
+    "/main.cbf8686b65b0016fe361.js": "2923eeb3f04ed40af65fb4bc43b06ea2435c9dd7",
+    "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.e58c58c1e5badffe4590.css": "a25ae4c16fc72f9ec5dacdd540935a75fa565d3f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
